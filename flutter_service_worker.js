@@ -3,27 +3,27 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "version.json": "426313f2f3133c2f20415344c4a22df3",
-"index.html": "0bb975b12b276f19ab51ea70e94e81dc",
-"/": "0bb975b12b276f19ab51ea70e94e81dc",
-"main.dart.js": "4798ea7187f704b0833d520a6669cf2e",
+  "assets/AssetManifest.json": "7cfd11f121781fc46a7cc9d81ae814ed",
+"assets/assets/firebase_logo.png": "0271d2c6e35916cc9399994986eb5a64",
+"assets/assets/flutter_logo.png": "6f1fb71d49b96371b37d188c7d14e736",
+"assets/assets/gamemaker.png": "a3af11224b4874f9575228421dcccee4",
+"assets/assets/GitHub-Logo.png": "63238c9fdc23f2d64213208f4d81a57a",
+"assets/assets/homebackground.jpg": "12551d5cdd749e7cda0fed23cde16328",
+"assets/assets/linkedin-talent.png": "1a07dc55daf90a7071635f471f3fd7ff",
+"assets/FontManifest.json": "c26d49b93f5981a3f573cdf7b13ffc49",
+"assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
+"assets/fonts/Ubuntu-Italic.ttf": "4b96047e4af086277cdaeb9e60857534",
+"assets/fonts/Ubuntu-Regular.ttf": "2505bfbd9bde14a7829cc8c242a0d25c",
+"assets/NOTICES": "eb22af8c959ad05dc2e881b2f37972f3",
+"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"manifest.json": "a83bbbd9d23ea4d752fbcd44cdc544fa",
-"assets/AssetManifest.json": "7b61497e21a4f066f2839b37c27310e0",
-"assets/NOTICES": "f8e96da2b5aa05506e339c02c914b328",
-"assets/FontManifest.json": "c26d49b93f5981a3f573cdf7b13ffc49",
-"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"assets/fonts/Ubuntu-Regular.ttf": "2505bfbd9bde14a7829cc8c242a0d25c",
-"assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/fonts/Ubuntu-Italic.ttf": "4b96047e4af086277cdaeb9e60857534",
-"assets/assets/flutter_logo.png": "6f1fb71d49b96371b37d188c7d14e736",
-"assets/assets/homebackground.jpg": "12551d5cdd749e7cda0fed23cde16328",
-"assets/assets/firebase_logo.png": "0271d2c6e35916cc9399994986eb5a64",
-"assets/assets/linkedin-talent.png": "1a07dc55daf90a7071635f471f3fd7ff",
-"assets/assets/gamemaker.png": "a3af11224b4874f9575228421dcccee4",
-"assets/assets/GitHub-Logo.png": "63238c9fdc23f2d64213208f4d81a57a"
+"index.html": "df093b17ee8ea1ad6e63c0e760ac589f",
+"/": "df093b17ee8ea1ad6e63c0e760ac589f",
+"main.dart.js": "2c03680aba3314545a1e3bd463828700",
+"manifest.json": "5a2c0526f1fe73e6f211bc7a9d15c210",
+"version.json": "426313f2f3133c2f20415344c4a22df3"
 };
 
 // The application shell files that are downloaded before a service worker can
