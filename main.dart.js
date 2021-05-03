@@ -53119,7 +53119,7 @@ L:function(a,b){var s=null,r=L.bZ("BOB'S ADVENTURE",K.aC(b).R.z.v7(50)),q=T.cs(s
 p=T.j4(T.eR(T.dx(H.c([r,q,T.lg(s,s,C.bl,!0,s,new Q.ck("A platformer game built with ",H.c([new Q.ck("GameMaker 2",s,K.aC(b).R.z.eH(C.x1)),V.Xm(U.qW("assets/gamemaker.png",C.cs,50,50))],t.B2),p),C.a0,s,s,1,C.aG),T.cs(s,15,s),L.bZ("This game was inspired by early Kirby games",K.aC(b).R.z.ej(3)),T.cs(s,10,s),L.bZ("Every sprite was drawn by me!",K.aC(b).R.z.ej(3)),T.cs(s,10,s),L.bZ("Three levels with three distinct enemy types",K.aC(b).R.z.ej(3)),T.cs(s,10,s),L.bZ("Collect fruits to increase points, and heal yourself!",K.aC(b).R.z.ej(3)),T.cs(s,15,s),U.WE(L.bZ("Download",K.aC(b).R.z.ph(C.fP,C.eX,30)),G.agk())],o),C.a_,C.cd,C.O),s,s),4)
 q=B.LJ()
 r=t.gN
-return T.dx(H.c([p,T.j4(O.LK(P.ap(new H.at(C.pi,new G.Lh(),r),!0,r.j("b0.E")),q),5),new M.jo(s)],o),C.a_,C.bb,C.O)}}
+return T.dx(H.c([p,T.j4(O.LK(P.ap(new H.at(C.pi,new G.Lh(),r),!0,r.j("b0.E")),q),3),new M.jo(s)],o),C.a_,C.bb,C.O)}}
 G.Lh.prototype={
 $1:function(a){var s=null
 return M.eq(s,T.eR(U.Py(a),s,s),s,s,s,s,s,s,s)},
@@ -53132,10 +53132,10 @@ L:function(a,b){var s,r,q=null,p=L.bZ("BUDGET APP PROTOTYPE",K.aC(b).R.z.v7(50))
 n=T.lg(q,q,C.bl,!0,q,new Q.ck("A budgeting app built with ",H.c([new Q.ck("Flutter",q,K.aC(b).R.z.eH(C.bd)),V.Xm(U.qW("assets/flutter_logo.png",C.cs,50,50))],m),n),C.a0,q,q,1,C.aG)
 s=K.aC(b).R.z.ej(5)
 r=t.Y
-s=T.j4(T.eR(T.dx(H.c([p,o,n,T.lg(q,q,C.bl,!0,q,new Q.ck("Supported by ",H.c([new Q.ck("Firebase",q,K.aC(b).R.z.eH(C.fP)),V.Xm(U.qW("assets/firebase_logo.png",C.cs,50,50))],m),s),C.a0,q,q,1,C.aG),T.cs(q,15,q),L.bZ("The user can create a category they want to check",K.aC(b).R.z.ej(3)),T.cs(q,10,q),L.bZ("They can also log in transactions (such as expense or income)",K.aC(b).R.z.ej(3)),T.cs(q,15,q),U.WE(L.bZ("GitHub Repo",K.aC(b).R.z.ph(C.fP,C.eX,30)),B.agt())],r),C.a_,C.cd,C.O),q,q),2)
+s=T.j4(T.eR(T.dx(H.c([p,o,n,T.lg(q,q,C.bl,!0,q,new Q.ck("Supported by ",H.c([new Q.ck("Firebase",q,K.aC(b).R.z.eH(C.fP)),V.Xm(U.qW("assets/firebase_logo.png",C.cs,50,50))],m),s),C.a0,q,q,1,C.aG),T.cs(q,15,q),L.bZ("The user can create a category they want to check",K.aC(b).R.z.ej(3)),T.cs(q,10,q),L.bZ("They can also log in transactions (such as expense or income)",K.aC(b).R.z.ej(3)),T.cs(q,15,q),U.WE(L.bZ("GitHub Repo",K.aC(b).R.z.ph(C.fP,C.eX,30)),B.agt())],r),C.a_,C.cd,C.O),q,q),3)
 m=B.LJ()
 n=t.gN
-return T.dx(H.c([s,T.j4(O.LK(P.ap(new H.at(C.pr,new B.Lp(),n),!0,n.j("b0.E")),m),5),new M.jo(q)],r),C.a_,C.bb,C.O)}}
+return T.dx(H.c([s,T.j4(O.LK(P.ap(new H.at(C.pr,new B.Lp(),n),!0,n.j("b0.E")),m),4),new M.jo(q)],r),C.a_,C.bb,C.O)}}
 B.Lp.prototype={
 $1:function(a){var s=null
 return M.eq(s,T.eR(U.Py(a),s,s),s,s,s,s,s,s,s)},
