@@ -53132,10 +53132,10 @@ L:function(a,b){var s,r,q=null,p=L.bZ("BUDGET APP PROTOTYPE",K.aC(b).R.z.v7(50))
 n=T.lg(q,q,C.bl,!0,q,new Q.ck("A budgeting app built with ",H.c([new Q.ck("Flutter",q,K.aC(b).R.z.eH(C.bd)),V.Xm(U.qW("assets/flutter_logo.png",C.cs,50,50))],m),n),C.a0,q,q,1,C.aG)
 s=K.aC(b).R.z.ej(5)
 r=t.Y
-s=T.j4(T.eR(T.dx(H.c([p,o,n,T.lg(q,q,C.bl,!0,q,new Q.ck("Supported by ",H.c([new Q.ck("Firebase",q,K.aC(b).R.z.eH(C.fP)),V.Xm(U.qW("assets/firebase_logo.png",C.cs,50,50))],m),s),C.a0,q,q,1,C.aG),T.cs(q,15,q),L.bZ("The user can create a category they want to check",K.aC(b).R.z.ej(3)),T.cs(q,10,q),L.bZ("They can also log in transactions (such as expense or income)",K.aC(b).R.z.ej(3)),T.cs(q,15,q),U.WE(L.bZ("GitHub Repo",K.aC(b).R.z.ph(C.fP,C.eX,30)),B.agt())],r),C.a_,C.cd,C.O),q,q),3)
+s=T.j4(T.eR(T.dx(H.c([p,o,n,T.lg(q,q,C.bl,!0,q,new Q.ck("Supported by ",H.c([new Q.ck("Firebase",q,K.aC(b).R.z.eH(C.fP)),V.Xm(U.qW("assets/firebase_logo.png",C.cs,50,50))],m),s),C.a0,q,q,1,C.aG),T.cs(q,15,q),L.bZ("The user can create a category they want to check",K.aC(b).R.z.ej(3)),T.cs(q,10,q),L.bZ("They can also log in transactions (such as expense or income)",K.aC(b).R.z.ej(3)),T.cs(q,15,q),U.WE(L.bZ("GitHub Repo",K.aC(b).R.z.ph(C.fP,C.eX,30)),B.agt())],r),C.a_,C.cd,C.O),q,q),4)
 m=B.LJ()
 n=t.gN
-return T.dx(H.c([s,T.j4(O.LK(P.ap(new H.at(C.pr,new B.Lp(),n),!0,n.j("b0.E")),m),2),new M.jo(q)],r),C.a_,C.bb,C.O)}}
+return T.dx(H.c([s,T.j4(O.LK(P.ap(new H.at(C.pr,new B.Lp(),n),!0,n.j("b0.E")),m),3),new M.jo(q)],r),C.a_,C.bb,C.O)}}
 B.Lp.prototype={
 $1:function(a){var s=null
 return M.eq(s,T.eR(U.Py(a),s,s),s,s,s,s,s,s,s)},
