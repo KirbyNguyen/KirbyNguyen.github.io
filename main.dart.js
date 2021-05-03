@@ -53116,7 +53116,7 @@ M:function(a,b){var s=null,r=L.bZ("BOB'S ADVENTURE",K.aB(b).R.z.v7(50)),q=T.cs(s
 p=T.j4(T.eR(T.dx(H.c([r,q,T.lg(s,s,C.bl,!0,s,new Q.ck("A platformer game built with ",H.c([new Q.ck("GameMaker 2",s,K.aB(b).R.z.eH(C.x1)),V.Xl(U.qW("assets/gamemaker.png",C.cr,50,50))],t.B2),p),C.a0,s,s,1,C.aG),T.cs(s,15,s),L.bZ("This game was inspired by early Kirby games",K.aB(b).R.z.ej(3)),T.cs(s,10,s),L.bZ("Every sprite was drawn by me!",K.aB(b).R.z.ej(3)),T.cs(s,10,s),L.bZ("Three levels with three distinct enemy types",K.aB(b).R.z.ej(3)),T.cs(s,10,s),L.bZ("Collect fruits to increase points, and heal yourself!",K.aB(b).R.z.ej(3)),T.cs(s,15,s),U.WD(L.bZ("Download",K.aB(b).R.z.ph(C.fP,C.eX,30)),G.agj())],o),C.a_,C.de,C.O),s,s),4)
 q=B.LK()
 r=t.gN
-return T.dx(H.c([p,T.j4(O.LL(P.ap(new H.at(C.pi,new G.Li(),r),!0,r.j("b0.E")),q),3),new M.jo(s)],o),C.a_,C.aZ,C.O)}}
+return T.dx(H.c([p,T.j4(O.LL(P.ap(new H.at(C.pi,new G.Li(),r),!0,r.j("b0.E")),q),5),new M.jo(s)],o),C.a_,C.aZ,C.O)}}
 G.Li.prototype={
 $1:function(a){var s=null
 return M.eq(s,T.eR(U.Pz(a,1),s,s),s,s,s,s,s,s,s)},
@@ -53132,7 +53132,7 @@ r=t.Y
 s=T.j4(T.eR(T.dx(H.c([p,o,n,T.lg(q,q,C.bl,!0,q,new Q.ck("Supported by ",H.c([new Q.ck("Firebase",q,K.aB(b).R.z.eH(C.fP)),V.Xl(U.qW("assets/firebase_logo.png",C.cr,50,50))],m),s),C.a0,q,q,1,C.aG),T.cs(q,15,q),L.bZ("The user can create a category they want to check",K.aB(b).R.z.ej(3)),T.cs(q,10,q),L.bZ("They can also log in transactions (such as expense or income)",K.aB(b).R.z.ej(3)),T.cs(q,15,q),U.WD(L.bZ("GitHub Repo",K.aB(b).R.z.ph(C.fP,C.eX,30)),B.ags())],r),C.a_,C.de,C.O),q,q),2)
 m=B.LK()
 n=t.gN
-return T.dx(H.c([s,T.j4(O.LL(P.ap(new H.at(C.pr,new B.Lq(),n),!0,n.j("b0.E")),m),3),new M.jo(q)],r),C.a_,C.aZ,C.O)}}
+return T.dx(H.c([s,T.j4(O.LL(P.ap(new H.at(C.pr,new B.Lq(),n),!0,n.j("b0.E")),m),5),new M.jo(q)],r),C.a_,C.aZ,C.O)}}
 B.Lq.prototype={
 $1:function(a){var s=null
 return M.eq(s,T.eR(U.Pz(a,1),s,s),s,s,s,s,s,s,s)},
@@ -53151,10 +53151,10 @@ M:function(a,b){var s=null
 return M.Co(M.eq(s,new Y.Bw(s),s,s,new S.dL(s,s,s,s,s,new T.f4(C.hh,C.hi,C.bm,H.c([C.bd,C.l],t.r8),s,s),C.a5),s,s,new V.aU(50,25,50,25),s))}}
 Y.Bw.prototype={
 M:function(a,b){var s=null,r=T.eR(L.bZ("More are coming",s),s,s),q=t.Y,p=T.a47(H.c([new Y.xL(s),T.cs(s,s,200),new Y.xA(s)],q),C.aZ,C.O)
-return T.dx(H.c([new T.hC(1,C.f8,r,s),T.j4(new E.CH(C.k,!1,p,s),4),new M.jo(s)],q),C.a_,C.aZ,C.O)}}
+return T.dx(H.c([new T.hC(1,C.f8,r,s),T.j4(new E.CH(C.k,!1,p,s),5),new M.jo(s)],q),C.a_,C.aZ,C.O)}}
 Y.xL.prototype={
 M:function(a,b){var s=t.Y,r=T.dx(H.c([L.bZ("A BUDGET APP PROTOTYPE",K.aB(b).R.y.E2(C.j,50)),U.WD(L.bZ("Learn More",K.aB(b).R.z.ph(C.fP,C.eX,30)),new Y.Lr(b))],s),C.a_,C.aZ,C.O),q=B.LK(),p=t.gN
-return T.dx(H.c([new T.hC(1,C.f8,r,null),new T.hC(3,C.f8,O.LL(P.ap(new H.at(C.pr,new Y.Ls(),p),!0,p.j("b0.E")),q),null)],s),C.a_,C.de,C.O)}}
+return T.dx(H.c([new T.hC(1,C.f8,r,null),new T.hC(4,C.f8,O.LL(P.ap(new H.at(C.pr,new Y.Ls(),p),!0,p.j("b0.E")),q),null)],s),C.a_,C.de,C.O)}}
 Y.Lr.prototype={
 $0:function(){K.Az(this.a,"/budget",t._)},
 $S:1}
@@ -53164,7 +53164,7 @@ return M.eq(s,T.eR(U.Pz(a,1),s,s),s,s,s,s,s,s,s)},
 $S:36}
 Y.xA.prototype={
 M:function(a,b){var s=t.Y,r=T.dx(H.c([L.bZ("BLOB'S ADVENTURE",K.aB(b).R.y.E2(C.j,50)),U.WD(L.bZ("Learn More",K.aB(b).R.z.ph(C.fP,C.eX,30)),new Y.Lf(b))],s),C.a_,C.aZ,C.O),q=B.LK(),p=t.gN
-return T.dx(H.c([new T.hC(1,C.f8,r,null),new T.hC(3,C.f8,O.LL(P.ap(new H.at(C.pi,new Y.Lg(),p),!0,p.j("b0.E")),q),null)],s),C.a_,C.de,C.O)}}
+return T.dx(H.c([new T.hC(1,C.f8,r,null),new T.hC(4,C.f8,O.LL(P.ap(new H.at(C.pi,new Y.Lg(),p),!0,p.j("b0.E")),q),null)],s),C.a_,C.de,C.O)}}
 Y.Lf.prototype={
 $0:function(){K.Az(this.a,"/bob",t._)},
 $S:1}
